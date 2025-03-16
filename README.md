@@ -12,7 +12,7 @@ Also, you can see the poll results. You can `LOGOUT`, at the end.**
 
 * First of all clone the project:
 ```
-git clone https://github.com/EngRobot33/Poll.git
+git clone https://github.com/HaamedKhosravii/Poll.git
 ```
 * Then, we need a virtual environment you can create like this:
 ```
